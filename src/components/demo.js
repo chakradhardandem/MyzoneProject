@@ -334,18 +334,7 @@ const products = [
     isBestSeller: true,
   },
   {
-    id: 31,
-    name: 'Apple iPad Pro 12.9"',
-    price: 134999,
-    originalPrice: 149999,
-    discount: "10% OFF",
-    rating: 5.0,
-    image:
-      "https://images.seeklogo.com/logo-png/0/1/apple-logo-png_seeklogo-9832.png",
-    isBestSeller: true,
-  },
-  {
-    id: 32,
+    id: 30,
     name: 'Apple iPad Pro 12.9"',
     price: 134999,
     originalPrice: 149999,
